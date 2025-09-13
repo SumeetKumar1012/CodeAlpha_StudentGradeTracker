@@ -37,3 +37,12 @@ The system helps manage student records efficiently by providing features to add
 * Clear sections with headings
 
 * Compact, user-friendly controls
+
+
+### 💡Future Improvements
+
+* Export reports to Excel or PDF.
+
+* Add a login system with user roles (Teacher/Admin).
+
+* Implement data visualization (graphs and charts).
