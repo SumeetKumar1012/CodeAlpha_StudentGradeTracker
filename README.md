@@ -1,4 +1,4 @@
-## CodeAlpha_StudentGradeTracker
+## StudentGradeTracker
 A Java Swing GUI-based desktop application developed as part of my internship at CodeAlpha.
 The system helps manage student records efficiently by providing features to add, edit, delete, search, save, load, and analyze student data.
 
